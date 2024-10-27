@@ -7,7 +7,7 @@ const Team = () => {
         <div className="heading_section">
           <h1 className="heading">OUR TEAM</h1>
           <p>
-           Our team members- JOHNATHAN TYLER,WADE WARREN,JHON DOE,ALEX COAL And many more!
+           Our team members- Prashanthi Maramreddy,Sheetal Ondhiya,Jayandra Babu,Bhavesh
           </p>
         </div>
         <div className="team_container">
