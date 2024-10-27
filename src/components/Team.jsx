@@ -7,7 +7,7 @@ const Team = () => {
         <div className="heading_section">
           <h1 className="heading">OUR TEAM</h1>
           <p>
-           Our team members- Leadin Hospitaltiy Enterprenuers
+           Our team members- Leading Hospitaltiy Enterprenuers
           </p>
         </div>
         <div className="team_container">
