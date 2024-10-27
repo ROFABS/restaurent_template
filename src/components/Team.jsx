@@ -7,7 +7,7 @@ const Team = () => {
         <div className="heading_section">
           <h1 className="heading">OUR TEAM</h1>
           <p>
-           Our team members- Prashanthi Maramreddy,Sheetal Ondhiya,Jayandra Babu,Bhavesh
+           Our team members- Leadin Hospitaltiy Enterprenuers
           </p>
         </div>
         <div className="team_container">
